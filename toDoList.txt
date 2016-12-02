@@ -1,0 +1,10 @@
+-Add health + armour pickups
+-Add lights
+-Add invisible walls (boundary collisions)
+-Add water
+	-volumes in unreal
+-Add lifts
+	-blueprint
+-Fix textures
+-Playtest
+-Find a way to store it
